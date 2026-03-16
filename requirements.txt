@@ -1,0 +1,5 @@
+pandas
+numpy
+bokeh
+bokeh_catplot
+panel
